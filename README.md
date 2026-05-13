@@ -302,13 +302,7 @@ Then retrain with `python train.py`.
 
 > Built for SRM Ramapuram students to get instant, accurate answers about campus life, admissions, and opportunities — without digging through the college website.
 
----
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 <div align="center">
   <sub>⭐ If this project helped you, please consider giving it a star on GitHub!</sub>
